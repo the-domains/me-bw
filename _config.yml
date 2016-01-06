@@ -1,0 +1,14 @@
+layout_spectrum: 0.1938775
+color:
+  saturation: 0.3979592
+  brandStrength: 0.2682494
+  lightness: 0.3034371
+  rhythmicContrast: 0.8566057
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 1
+name: ME-bw
