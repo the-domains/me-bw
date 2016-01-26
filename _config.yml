@@ -1,7 +1,7 @@
 name: ME-bw
 favicon: null
 layout_spectrum: 0.24697
-typography_spectrum: 0.58784
+typography_spectrum: 1
 collections:
   - index:
       path: /
