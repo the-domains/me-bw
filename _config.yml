@@ -1,9 +1,7 @@
-favicon: null
 name: ME-bw
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1240601
+typography_spectrum: 0.8920515
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.4742213
-  brandStrength: 0.5633727
-  lightness: 0.2819549
-  brandColors:
-    - '#000101'
-    - '#FFFFFF'
-    - '#77644A'
-    - '#3B5999'
-    - '#8598BD'
-  rhythmicContrast: 0.4731471
-typography_spectrum: 0.8920515
-layout_spectrum: 0.1240601
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#eaf4fd'
+    - '#2e2d4c'
+    - '#53648f'
+    - '#7e8563'
+    - '#a5a96f'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.75
+purpose: []
