@@ -1,40 +1,40 @@
-name: ME-bw
-favicon: null
-layout_spectrum: 0.1240601
-typography_spectrum: 0.8920515
+layout_spectrum: 0.1895811
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
-  brandColors:
-    - '#eaf4fd'
-    - '#2e2d4c'
-    - '#53648f'
-    - '#7e8563'
-    - '#a5a96f'
+  saturation: 0.125
   brandStrength: 0.375
   lightness: 0.5625
-  saturation: 0.125
+  brandColors:
+    - '#A3BAEE'
+    - '#FFFFFB'
+    - '#191516'
+    - '#604033'
+    - '#F84181'
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.8920515
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: ME-bw
